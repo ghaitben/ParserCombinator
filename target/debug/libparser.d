@@ -1,0 +1,1 @@
+/home/ghait/Desktop/fiska/experimental/miloudi/projects/parser/target/debug/libparser.rlib: /home/ghait/Desktop/fiska/experimental/miloudi/projects/parser/src/input.rs /home/ghait/Desktop/fiska/experimental/miloudi/projects/parser/src/lib.rs /home/ghait/Desktop/fiska/experimental/miloudi/projects/parser/src/sequence.rs

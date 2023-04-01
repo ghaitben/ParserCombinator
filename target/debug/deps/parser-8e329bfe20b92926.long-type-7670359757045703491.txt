@@ -1,0 +1,1 @@
+LeftBind<&str, And<&str, AtLeast<&str, Exact<&str, char>, &str>, Vec<&str>, AtLeast<&str, Exact<&str, char>, &str>, Vec<&str>>, (Vec<&str>, Vec<&str>), End<&str>, ()>
